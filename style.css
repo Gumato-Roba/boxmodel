@@ -1,0 +1,27 @@
+
+
+.boxmodel1{
+    padding: 50px;
+    width: 30%;
+    border: 5px dotted hsl(300, 100%, 25%);
+    background-color: #0000;
+    margin: 200px;
+
+}
+    
+
+
+.boxmodel2{
+    padding: 40px;
+    width: 60%;
+    border: 5px solid #008000;
+    background-color: #0000;
+}
+.boxmodel3{
+    text-align: center;
+    padding: 40px;
+    width: 30%;
+    outline: 5px solid rgb(161, 75, 75);
+    background-color: #4890a8;
+}
+    
